@@ -59,10 +59,15 @@ The project explores **bias and fairness in machine learning models**, with a fo
 
 ## 📂 Repository Structure
 ├── data/ # Dataset (not included, must be downloaded)
+
 ├── notebooks/ # Jupyter notebooks for exploration & modeling
+
 ├── src/ # Python scripts for preprocessing & modeling
+
 ├── results/ # Figures, evaluation metrics, and fairness reports
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Python dependencies
 
 
